@@ -21,7 +21,7 @@
 
 .form-sec1 {
     height: 500px;
-    width: 800px;
+    width: 900px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -33,6 +33,7 @@
     align-items: center;
     justify-content: center;
     gap: 70px;
+    padding-top: 20px;
 }
 
 .reg-teacher {
@@ -72,11 +73,6 @@ label {
 .reg-teacher {
     color: white;
     font-size: 30px;
-}
-
-.hr-main {
-    width: 180px;
-    margin-left: 195px;
 }
 
 .p-tag {
